@@ -1,0 +1,13 @@
+C:\dotNet\pelabuhan\pelabuhan\bin\Debug\pelabuhan.exe.config
+C:\dotNet\pelabuhan\pelabuhan\bin\Debug\pelabuhan.exe
+C:\dotNet\pelabuhan\pelabuhan\bin\Debug\pelabuhan.pdb
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.csproj.AssemblyReference.cache
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.pelabuhan.resources
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.Properties.Resources.resources
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.csproj.GenerateResource.cache
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.csproj.CoreCompileInputs.cache
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.exe
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.pdb
+C:\dotNet\pelabuhan\pelabuhan\bin\Debug\Newtonsoft.Json.dll
+C:\dotNet\pelabuhan\pelabuhan\bin\Debug\Newtonsoft.Json.xml
+C:\dotNet\pelabuhan\pelabuhan\obj\Debug\pelabuhan.csproj.CopyComplete
